@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="blocks">
       {/* <Counter /> */}
-      {/* <Degree /> */}
+      <Degree />
       {/* <Button /> */}
       {/* <Calculator /> */}
       {/* <Todo /> */}
