@@ -1,0 +1,69 @@
+.counter {
+    width: 250px;
+    text-align: center;
+    margin: 200px auto;
+}
+
+.count {
+    font-size: 50px;
+}
+
+.btns {
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+.btn {
+    width: 150px;
+    height: 30px;
+    margin: 0 auto;
+    background-color: lightsteelblue;
+    font-size: 15px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.red {
+    color: red;
+}
+
+.calculators {
+    text-align: center;
+    margin: 200px auto;
+}
+
+.input {
+    border-radius: 5px;
+    border: 2px solid lightslategray;
+    margin-left: 5px;
+}
+
+.btn__sum {
+    width: 175px;
+    border-radius: 5px;
+    border: 2px solid lightslategray;
+    background-color: lightslategray;
+    cursor: pointer;
+    margin: 10px 0 10px;
+}
+
+.item, .list {
+    margin: 3px 0px 6px 7px;
+    padding-left: 3px;
+}
+
+
+.main {
+    width: 100px;
+    height: 100px;
+}
+
+
+
+
+
+
+
+
